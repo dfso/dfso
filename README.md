@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dfso
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate on open sources projects
+- 💞️ I’m looking to collaborate on open source projects
 
 <!---
 dfso/dfso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
